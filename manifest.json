@@ -18,12 +18,12 @@ GitHub: https://github.com/Hiskiso/right-menu-vk-hider/
     "scripting"
     ],
     "action": {
-      "default_popup": "https://hiskiso.github.io/right-menu-vk-hider/"
+      "default_popup": "popup.html"
     },
     "content_scripts": [
       {
         "matches": ["https://vk.com/*"],
-        "js": ["https://raw.githubusercontent.com/Hiskiso/right-menu-vk-hider/hosting/contentScript.js"]
+        "js": ["contentScript.js"]
       }
     ]
     }
