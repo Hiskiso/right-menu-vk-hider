@@ -1,7 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "Скрыть нахуй плашку ебаную",
-    "description": "Как и просили",
+    "name": "Hidde right menu",
+    "description": "Скрывает правое меню в сообщениях
+
+GitHub: https://github.com/Hiskiso/right-menu-vk-hider/
+
+",
     "version": "1.0",
     "icons": {
     "128": "128.png"
